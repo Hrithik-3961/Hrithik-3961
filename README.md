@@ -1,3 +1,7 @@
+<div align="center">
+	<br>
+	<img src="https://github.com/Hrithik-3961/Hrithik-3961/blob/master/animation_500_kki0cljm.gif" width="200" height="200">
+</div>
 
 <h1 align="center">Hi 👋, I'm Hrithik Agarwal</h1>
 <h3 align="center">A passionate android app developer from India</h3>
