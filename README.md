@@ -12,7 +12,9 @@
 
 - 🔭 My last project was [Hand Cricket App](https://play.google.com/store/apps/details?id=com.Hand_Cricket)
 
-- 🌱 I’m currently learning **Android App Dev and Web dev**
+- 🌱 I’m currently learning **App Dev and Web dev**
+
+- 👩‍💻 Working as senior app developer at [Unlearner's Tech](https://www.unlearnerstech.in/)
 
 - 📫 How to reach me **agarwal.hrithik3961@gmail.com**
 
